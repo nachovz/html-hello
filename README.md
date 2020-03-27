@@ -1,8 +1,10 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
 The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](gitpod.io) coding editor.
+
+[![How to open html/css preview of my project in gitpod](https://ucarecdn.com/96afb19f-e524-4317-9f5c-e3a0f9b7e8c7/)](https://youtu.be/dfbDCMu_p-0)
 
 ## What to do next?
 
